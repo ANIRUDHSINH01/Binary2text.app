@@ -1,1 +1,0 @@
-# Binary2text.app
